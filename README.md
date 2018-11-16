@@ -40,9 +40,8 @@ git clone https://github.com/Smoke101/HKSELFBOT
 
 ls
 
-cd HKSELFBOT
+cd JIIKSELFBOT
 
-unzip HKSELFBOT.zip
 
 Is
 
